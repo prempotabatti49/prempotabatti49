@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @prempotabatti49 | Prem Potabatti, Data Scientist with JPMC. I am also an international level springboard diver.
+- 👨‍🎓 I have done my masters from IIT Kgp, ISI Kolkata, and IIM Calcutta (PGDBA)
 - 👀 I’m interested in Data Science/Machine Learning
 - 💞️ I’m looking to collaborate on NLP, Imbalanced data problems.
 
